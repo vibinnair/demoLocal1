@@ -1,5 +1,5 @@
 
-Hi !!!OB
+Hi
 OA
 exit
 New text
